@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2024-05-13T02:48:10.662Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="bj10kSk4v2tYVufUXpah" version="24.4.0" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2048" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="项目组织结构图" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="80" width="990" height="600" as="geometry" />
+        </mxCell>
+        <UserObject label="项目经理&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;project manager&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="_-mUHJfs_aon3Se3MjbC-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="400" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="安全专责&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;safety expertise&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="40" y="200" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="技术专责&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;technical expertise&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="280" y="200" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="采购专员&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;procurement specialist&lt;/i&gt;&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="534" y="200" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="库存专员&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;inventory specialist&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="767" y="200" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-17" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="_-mUHJfs_aon3Se3MjbC-2" target="_-mUHJfs_aon3Se3MjbC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="140" as="sourcePoint" />
+            <mxPoint x="560" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="160" />
+              <mxPoint x="370" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="160" as="sourcePoint" />
+            <mxPoint x="867" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="160" />
+              <mxPoint x="867" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="班组长&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;team leader&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="160" y="360" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="班组成员&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;team members&lt;/i&gt;&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="_-mUHJfs_aon3Se3MjbC-24">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="160" y="480" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="_-mUHJfs_aon3Se3MjbC-12" target="_-mUHJfs_aon3Se3MjbC-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="320" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="320" />
+              <mxPoint x="250" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="_-mUHJfs_aon3Se3MjbC-20" target="_-mUHJfs_aon3Se3MjbC-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="340" as="sourcePoint" />
+            <mxPoint x="560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_-mUHJfs_aon3Se3MjbC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_-mUHJfs_aon3Se3MjbC-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="240" />
+              <mxPoint x="504" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-mUHJfs_aon3Se3MjbC-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_-mUHJfs_aon3Se3MjbC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
