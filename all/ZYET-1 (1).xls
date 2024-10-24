@@ -1,0 +1,1101 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2024-10-18T13:39:39</o:Created>
+     <o:LastAuthor>爱人生の猫</o:LastAuthor>
+     <o:LastSaved>2024-10-18T13:42:02</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">C43E55A89F90436E8859E3E2F2DE0A2E_12</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">2052-12.1.0.18276</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style19
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style20
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style24
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style25
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style26
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style27
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style28
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style29
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style32
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style33
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style35
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style36
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style37
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style40
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style41
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style42
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style43
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style44
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style45
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style46
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style47
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style48
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style49
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style50
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style53
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style54
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style57
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style58
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style61
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:12.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl66
+	{mso-style-parent:style0;
+	mso-number-format:"yyyy/m/d";
+	white-space:normal;
+	font-size:12.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:12.0pt;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Table</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>280</x:DefaultRowHeight>
+        <x:StandardWidth>2234</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>9</x:ActiveCol>
+          <x:ActiveRow>5</x:ActiveRow>
+          <x:RangeSelection>J6</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>True</x:ProtectObjects>
+        <x:ProtectScenarios>True</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>12080</x:WindowHeight>
+     <x:WindowWidth>24750</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="1853" border="0" cellpadding="0" cellspacing="0" style='width:926.50pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="175" style='mso-width-source:userset;mso-width-alt:4266;'/>
+   <col width="432" style='mso-width-source:userset;mso-width-alt:10532;'/>
+   <col width="190" span="2" style='mso-width-source:userset;mso-width-alt:4632;'/>
+   <col width="170" style='mso-width-source:userset;mso-width-alt:4144;'/>
+   <col width="153" style='mso-width-source:userset;mso-width-alt:3730;'/>
+   <col width="177" style='mso-width-source:userset;mso-width-alt:4315;'/>
+   <col width="158" style='mso-width-source:userset;mso-width-alt:3852;'/>
+   <col width="208" style='mso-width-source:userset;mso-width-alt:5071;'/>
+   <tr height="60" style='height:30.00pt;'>
+    <td class="xl65" height="60" width="175" style='height:30.00pt;width:87.50pt;' x:str>任务编码</td>
+    <td class="xl65" width="432" style='width:216.00pt;' x:str>任务名称</td>
+    <td class="xl65" width="190" style='width:95.00pt;' x:str>开始时间</td>
+    <td class="xl65" width="190" style='width:95.00pt;' x:str>结束时间</td>
+    <td class="xl65" width="170" style='width:85.00pt;' x:str>工期(天)</td>
+    <td class="xl65" width="153" style='width:76.50pt;' x:str>进度(%)</td>
+    <td class="xl65" width="177" style='width:88.50pt;' x:str>前置任务</td>
+    <td class="xl65" width="158" style='width:79.00pt;' x:str>负责人</td>
+    <td class="xl65" width="208" style='width:104.00pt;' x:str>描述</td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl65" height="30" style='height:15.00pt;' x:str>/</td>
+    <td class="xl65" x:str>Project</td>
+    <td class="xl66" align="right" x:num="45411.">2024/4/29</td>
+    <td class="xl66" align="right" x:num="45590.">2024/10/25</td>
+    <td class="xl67" align="right" x:num>180</td>
+    <td class="xl67" align="right" x:num>95.85</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>1</td>
+    <td class="xl65" x:str>已完成的工作计划</td>
+    <td class="xl66" align="right" x:num="45411.">2024/4/29</td>
+    <td class="xl66" align="right" x:num="45506.">2024/8/2</td>
+    <td class="xl67" align="right" x:num>96</td>
+    <td class="xl67" align="right" x:num>94.03</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>2</td>
+    <td class="xl65" x:str>周0805-0809工作计划</td>
+    <td class="xl66" align="right" x:num="45509.">2024/8/5</td>
+    <td class="xl66" align="right" x:num="45513.">2024/8/9</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>3</td>
+    <td class="xl65" x:str>周0812-0816工作计划</td>
+    <td class="xl66" align="right" x:num="45516.">2024/8/12</td>
+    <td class="xl66" align="right" x:num="45520.">2024/8/16</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>4</td>
+    <td class="xl65" x:str>周0819-0823工作计划</td>
+    <td class="xl66" align="right" x:num="45523.">2024/8/19</td>
+    <td class="xl66" align="right" x:num="45527.">2024/8/23</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>5</td>
+    <td class="xl65" x:str>周0826-0830工作计划</td>
+    <td class="xl66" align="right" x:num="45530.">2024/8/26</td>
+    <td class="xl66" align="right" x:num="45534.">2024/8/30</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>6</td>
+    <td class="xl65" x:str>周0902-0906工作计划</td>
+    <td class="xl66" align="right" x:num="45537.">2024/9/2</td>
+    <td class="xl66" align="right" x:num="45541.">2024/9/6</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>7</td>
+    <td class="xl65" x:str>周0909-0913工作计划</td>
+    <td class="xl66" align="right" x:num="45544.">2024/9/9</td>
+    <td class="xl66" align="right" x:num="45548.">2024/9/13</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>8</td>
+    <td class="xl65" x:str>周0914-0920工作计划</td>
+    <td class="xl66" align="right" x:num="45553.">2024/9/18</td>
+    <td class="xl66" align="right" x:num="45554.">2024/9/19</td>
+    <td class="xl67" align="right" x:num>2</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>9</td>
+    <td class="xl65" x:str>周0923-0927工作计划</td>
+    <td class="xl66" align="right" x:num="45558.">2024/9/23</td>
+    <td class="xl66" align="right" x:num="45562.">2024/9/27</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>10</td>
+    <td class="xl65" x:str>周1008-1012工作计划</td>
+    <td class="xl66" align="right" x:num="45573.">2024/10/8</td>
+    <td class="xl66" align="right" x:num="45577.">2024/10/12</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>11</td>
+    <td class="xl65" x:str>周1014-1018工作计划</td>
+    <td class="xl66" align="right" x:num="45579.">2024/10/14</td>
+    <td class="xl66" align="right" x:num="45583.">2024/10/18</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="90" style='height:45.00pt;'>
+    <td class="xl67" height="90" align="right" style='height:45.00pt;' x:num>11.1</td>
+    <td class="xl65" x:str>新建巡检、储能电池管理项目两个产品项，并对手机巡检功能内的照相水印设置进行实验分析</td>
+    <td class="xl66" align="right" x:num="45579.">2024/10/14</td>
+    <td class="xl66" align="right" x:num="45579.">2024/10/14</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>11.2</td>
+    <td class="xl65" x:str>完成公司安排的财务制度培训项目</td>
+    <td class="xl66" align="right" x:num="45579.">2024/10/14</td>
+    <td class="xl66" align="right" x:num="45579.">2024/10/14</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="90" style='height:45.00pt;'>
+    <td class="xl67" height="90" align="right" style='height:45.00pt;' x:num>11.3</td>
+    <td class="xl65" x:str>STORY044_云平台运行监视电站监视电站概览大同新荣-FJ风机设备信息页面的描述内容规范调整</td>
+    <td class="xl66" align="right" x:num="45580.">2024/10/15</td>
+    <td class="xl66" align="right" x:num="45580.">2024/10/15</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="90" style='height:45.00pt;'>
+    <td class="xl67" height="90" align="right" style='height:45.00pt;' x:num>11.4</td>
+    <td class="xl65" x:str>STORY046_云平台运行监视电站监视电站概览大同新荣-FJ风机设备信息页面实时刷新数据</td>
+    <td class="xl66" align="right" x:num="45580.">2024/10/15</td>
+    <td class="xl66" align="right" x:num="45581.">2024/10/16</td>
+    <td class="xl67" align="right" x:num>2</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>11.5</td>
+    <td class="xl65" x:str>完成公司安排的招聘管理制度培训项目</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="90" style='height:45.00pt;'>
+    <td class="xl67" height="90" align="right" style='height:45.00pt;' x:num>11.6</td>
+    <td class="xl65" x:str>STROY042_云平台运行监视电站监视电站概览大同新荣-FJ风机列表内的风机状态未出现实时更新</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>11.7</td>
+    <td class="xl65" x:str>参加乙强组织的需求内部评审会议</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl66" align="right" x:num="45582.">2024/10/17</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>100</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>12</td>
+    <td class="xl65" x:str>周1021-1025工作计划</td>
+    <td class="xl66" align="right" x:num="45586.">2024/10/21</td>
+    <td class="xl66" align="right" x:num="45590.">2024/10/25</td>
+    <td class="xl67" align="right" x:num>5</td>
+    <td class="xl67" align="right" x:num>0</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <tr height="30" style='height:15.00pt;'>
+    <td class="xl67" height="30" align="right" style='height:15.00pt;' x:num>13</td>
+    <td class="xl65" x:str>遗留故障</td>
+    <td class="xl66" align="right" x:num="45411.">2024/4/29</td>
+    <td class="xl66" align="right" x:num="45411.">2024/4/29</td>
+    <td class="xl67" align="right" x:num>1</td>
+    <td class="xl67" align="right" x:num>0</td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+    <td class="xl67"></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="175" style='width:88;'></td>
+     <td width="432" style='width:216;'></td>
+     <td width="190" style='width:95;'></td>
+     <td width="170" style='width:85;'></td>
+     <td width="153" style='width:77;'></td>
+     <td width="177" style='width:89;'></td>
+     <td width="158" style='width:79;'></td>
+     <td width="208" style='width:104;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
