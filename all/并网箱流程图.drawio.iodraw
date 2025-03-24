@@ -27,7 +27,7 @@
         <mxCell id="hperhdJdkIZgUImDKUNA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-9" target="hperhdJdkIZgUImDKUNA-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hperhdJdkIZgUImDKUNA-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;安装新保护器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hperhdJdkIZgUImDKUNA-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;组件检查&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hperhdJdkIZgUImDKUNA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-15" target="hperhdJdkIZgUImDKUNA-29" edge="1">
