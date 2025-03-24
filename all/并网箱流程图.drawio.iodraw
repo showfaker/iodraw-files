@@ -1,1 +1,82 @@
-<mxfile host="Electron" modified="2024-09-02T01:18:00.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw/2.0.1 Chrome/66.0.3359.181 Electron/3.0.0 Safari/537.36" etag="nBao8xo-r1NF-b_a7KFi" version="13.3.6" type="device"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">3Vpbc5s6EP41mmkfPMMd9Ai2k5M0zbTNycmZvnQUo2AajFwhx/b59UcSAgx2apwaX/JkWC267Lff7koyMPuTxSVF0/FnEuIEGFq4AOYAGIZuaJD/CMkyl3iGngsiGodKqRLcxf9hJdSUdBaHOKspMkISFk/rwhFJUzxiNRmilMzrak8kqY86RRFeE9yNULIufYhDNi5W4Vbyv3AcjYuRdUcteIIKZbWSbIxCMl8RmUNg9ikhLH+aLPo4EcYr7PJwtXxIbp6dy+uv2S90H3z6+/afXt7ZxS6flEugOGVv7no8xXQcXofPV9+j+6vJ4NP9rd/TVd8vKJkpg6nFsmVhQRxyg6pXQtmYRCRFybCSBpTM0hCLcTT+VuncEDLlQp0Lf2LGlso70IwRLhqzSaJaWy5QTTYjMzrCv1mVWoOY+IoTKLNcYjLBjC65AsUJYvFL3VOQcrio1Cs//UJiPj9DU+SwPOUZy8J3tHoXDNEIM/VVBQ1/WJlGJZKA7QCesQE7J+EGDLIpSmsgOr9mwk2DJ5KyXiZh8LmC7kwXVSN/iuTv0AHQAf4ADF0ALRDYUmICj0v46wDAfjESn3g+mPq06TyVawic5+OY4bspkujNecCpu4GYnfIRnRs9iBKUZcqrMkbJc0lhoV3yUdvZg14wZXjxW99QraZRx7iAfF7FEr1QGa/EEUd73ZtqfrAr6N4ZErZrIjrW24i43pG2paM89HTGaN06Q3S3hmNHpX0JwiHD9h8RzeksutrA00UIraIrBDyuQF9KLoBvt42ufBm8jsLbI2tX4VF36oRxW4ZHr6vwqG+C7ewZBFsySLdPikKwQwr5Q+BBMPSAz+sSW5UsgSYLlAsAB0Li+cC3hDKEwPd2L1m04xGrmdKOXndY9nskVkGY7bkJnhSz9E1o7IdaLggs4LuSNgEI/H3U/kckkqedGJEM81XoBEJ/tm0TwVCTiMkyQsTAoXxwBZI8MFbQ5YOdMnTNGGhoR8fuHHdf22Obu+/Y1m6bZpiH3V2Z7/Ow60DoWdvQ6/q0y+0wbvJNmBfIapLXjvZZRcnmKeTxo6T1LvdgRttNWJHgT6RUNPa0C5OEWaMOBNAAviFrQ09uu1xZJOqyCNHkIbINAllIdnFkfKiy8fisMjfVjafOqq6TktEMfi2T0lpHzXP+DmuT7OHb/PbL5debH9OX6MJf2N9+PPY2lSb7Sm4eLO5y+KYArqQ7CDwXeOe1KTgqMX/60Ha/x759S3sTNL/517+7VteuO8XXR7IQyMVplGP3SGiIaY+L+Ys0XiFSqxJK2nStVfXsy/yV8Fk22kckITRvp9HjB0PkAj5dvk7NENVw+Wx/LD9tfKOVWl6lb1XqG72w1lbNMSV0gpKyOeGBRiyC+1BpiYYKdwrWQ0kcpXlzgp9YvTHmLik8rGkh2cgoSrMn3mXReYpLhTk3UX3smoHR6DmSDr9mRNuuDFF//vgK/wLgOTJVQnkeyROjK09YjnFUuca0tiRtXYAe8oRlIyGNNzCyZTC1ZCmT3+FwxPTiJLovMfRExdPN1c3+YWte3ejwgHc3m3HrMgny6tST52B8mYKNrjgZE/cFtjjRrFWnLZPgIf7QsH/Y1wqdDvMnf63+HpVXStWfzMzh/w==</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1221" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="hperhdJdkIZgUImDKUNA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;现场监测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="110" as="targetPoint" />
+            <mxPoint x="600" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-6" target="hperhdJdkIZgUImDKUNA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;准备工作&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-9" target="hperhdJdkIZgUImDKUNA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;安装新保护器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-15" target="hperhdJdkIZgUImDKUNA-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-15" value="&lt;span style=&quot;font-size: 16px&quot;&gt;紧固操作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;检查接线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hperhdJdkIZgUImDKUNA-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-27" value="&lt;font style=&quot;font-size: 16px&quot;&gt;测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hperhdJdkIZgUImDKUNA-29" target="hperhdJdkIZgUImDKUNA-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;钢丝网搭建&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hperhdJdkIZgUImDKUNA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="targetPoint" />
+            <mxPoint x="320" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sWRwNPGQL_pvgFAx5R_b-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;扭矩测量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jA957ZiA5Nr-mawLXASJ-0" value="&lt;span style=&quot;box-sizing: border-box ; border-width: 0px ; border-style: solid ; border-color: rgb(229 , 231 , 235) ; color: rgb(0 , 8 , 24) ; font-size: 16px ; font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;拆除旧保护器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jA957ZiA5Nr-mawLXASJ-20" value="&lt;span style=&quot;font-size: 16px&quot;&gt;任务完成&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jA957ZiA5Nr-mawLXASJ-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;清理现场&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
