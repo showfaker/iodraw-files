@@ -82,7 +82,7 @@
         <mxCell id="BwbKAYu-A58TmerGaTj4-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;系统测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwbKAYu-A58TmerGaTj4-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BwbKAYu-A58TmerGaTj4-5" value="清理现场" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
