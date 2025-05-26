@@ -58,8 +58,14 @@
         <mxCell id="j5-QypEweIFicq7TXcLz-16" value="开始机器人设备电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5-QypEweIFicq7TXcLz-19" value="写入特征值数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j5-QypEweIFicq7TXcLz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-19" target="j5-QypEweIFicq7TXcLz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-19" value="控制机器人移动方向和转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-21" value="使用完毕，断开蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="980" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
