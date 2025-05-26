@@ -14,16 +14,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5-QypEweIFicq7TXcLz-2" value="开始搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="200" height="60" as="geometry" />
+          <mxGeometry x="400" y="180" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5-QypEweIFicq7TXcLz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-4" target="j5-QypEweIFicq7TXcLz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j5-QypEweIFicq7TXcLz-4" value="连接蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="200" height="60" as="geometry" />
+          <mxGeometry x="400" y="280" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5-QypEweIFicq7TXcLz-6" value="开始搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="200" height="60" as="geometry" />
+        <mxCell id="j5-QypEweIFicq7TXcLz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-6" target="j5-QypEweIFicq7TXcLz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-6" value="停止搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-8" target="j5-QypEweIFicq7TXcLz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-8" value="获取设备服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-10" value="获取设备服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
