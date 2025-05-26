@@ -34,8 +34,8 @@
         <mxCell id="j5-QypEweIFicq7TXcLz-8" value="获取设备服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="480" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5-QypEweIFicq7TXcLz-10" value="获取设备服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="200" height="60" as="geometry" />
+        <mxCell id="j5-QypEweIFicq7TXcLz-10" value="获取服务的特征值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
