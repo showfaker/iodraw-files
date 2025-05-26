@@ -10,8 +10,20 @@
         <mxCell id="j5-QypEweIFicq7TXcLz-1" value="初始化蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-2" target="j5-QypEweIFicq7TXcLz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j5-QypEweIFicq7TXcLz-2" value="开始搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-4" target="j5-QypEweIFicq7TXcLz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-4" value="连接蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-6" value="开始搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
