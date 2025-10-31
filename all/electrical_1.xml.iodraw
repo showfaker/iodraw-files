@@ -1,0 +1,79 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
+    <mxGraphModel dx="1221" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j5-QypEweIFicq7TXcLz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-1" target="j5-QypEweIFicq7TXcLz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-1" value="初始化蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-2" target="j5-QypEweIFicq7TXcLz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-2" value="开始搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-4" target="j5-QypEweIFicq7TXcLz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-4" value="连接蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-6" target="j5-QypEweIFicq7TXcLz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-6" value="停止搜索蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-8" target="j5-QypEweIFicq7TXcLz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-8" value="获取设备服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-10" target="j5-QypEweIFicq7TXcLz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-10" value="获取服务的特征值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-12" target="j5-QypEweIFicq7TXcLz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-12" value="读取特征值数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-14" target="j5-QypEweIFicq7TXcLz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-14" value="写入特征值数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-16" target="j5-QypEweIFicq7TXcLz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-16" value="开始机器人设备电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-19" target="j5-QypEweIFicq7TXcLz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-19" value="控制机器人移动方向和转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j5-QypEweIFicq7TXcLz-21" target="j5-QypEweIFicq7TXcLz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-21" value="使用完毕，断开蓝牙设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="980" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5-QypEweIFicq7TXcLz-23" value="关闭蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="980" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
