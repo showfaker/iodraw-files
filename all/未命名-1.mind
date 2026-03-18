@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"dh5isqtyp940","created":1773797675796,"text":"中心主题","resource":["graph LR     A[\"大疆司空模仿程序\"] --> B[\"前端架构\"] …    H --> M[\"数据持久化\"]     I --> N[\"模拟飞行界面\"]     I --> O[\"无人机镜头控制\"]     J --> P[\"航点行为组\"]     L --> Q[\"文件生成接口\"]     M --> R[\"航线数据存储\"]"]},"children":[]},"template":"right","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"dh5isqtyp940","created":1773797675796,"text":"中心主题","resource":[]},"children":[]},"template":"right","theme":"fresh-blue","version":"1.4.43"}
